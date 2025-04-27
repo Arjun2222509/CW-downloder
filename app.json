@@ -11,22 +11,18 @@
     "deployer"
   ],
   "env": {
+    "API_ID": {
+      "description": "20054245",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "431f22f320ed5d69225d3b3fc253fc0d",
+      "required": true
+    },
     "BOT_TOKEN": {
-     "description": "Your Bot token from @Botfather"
-       },
-     "API_ID": {
-
-        "20054245"
+      "description": "Your Telegram Bot Token",
       "required": true
-
-        },
-
-        "API_HASH": {
-
-            "description": "431f22f320ed5d69225d3b3fc253fc0d"
-      "required": true
-
-        }
+    },
 },
   "addons": [
   ],
