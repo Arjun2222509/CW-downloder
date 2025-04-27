@@ -16,13 +16,13 @@
        },
      "API_ID": {
 
-        "description": "Your API_ID from https://my.telegram.org/apps"
+        "20054245"
 
         },
 
         "API_HASH": {
 
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "431f22f320ed5d69225d3b3fc253fc0d"
 
         }
 },
