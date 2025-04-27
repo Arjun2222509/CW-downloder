@@ -16,10 +16,17 @@ import logging
 import os
 import re
 
-bot = Client("bot",
-             bot_token= "5509916510:AAFHwDD7kOSrTvvjwmCqDF6LU8ov2_hjR2E",
-             api_id= 27495136,
-             api_hash= "4ccc4865eec4d8fde7530e71948b3424")
+# After (secure)
+
+BOT_TOKEN = os.environ.get('BOT_TOKEN')  # Fetch from environment variables
+
+# After (secure)
+
+API_ID = os.environ.get('API_ID')  
+
+# After (secure)
+
+API_HASH = os.environ.get('API_HASH')  # Fetch from environment variables
 
 logger = logging.getLogger()
 
