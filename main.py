@@ -20,8 +20,8 @@ import re
 
 bot = Client("bot",
              bot_token= "5509916510:AAFHwDD7kOSrTvvjwmCqDF6LU8ov2_hjR2E",
-             api_id= 27495136,
-             api_hash= "4ccc4865eec4d8fde7530e71948b3424")
+             api_id= 20054245,
+             api_hash= "431f22f320ed5d69225d3b3fc253fc0d")
 
 logger = logging.getLogger()
 
