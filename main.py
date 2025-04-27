@@ -19,7 +19,7 @@ import re
 # After (secure)
 
 bot = Client("bot",
-             bot_token= "5509916510:AAFHwDD7kOSrTvvjwmCqDF6LU8ov2_hjR2E",
+             bot_token= "7221491910:AAE4YjIJaJGYX1dyTuQrtiUmr_RnS5i9rQw",
              api_id= 20054245,
              api_hash= "431f22f320ed5d69225d3b3fc253fc0d")
 
